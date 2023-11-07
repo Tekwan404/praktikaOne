@@ -1,0 +1,16 @@
+C:\Users\Tekwan\source\repos\dopzadanie\dopzadanie\obj\Debug\dopzadanie.csproj.AssemblyReference.cache
+C:\Users\Tekwan\source\repos\dopzadanie\dopzadanie\obj\Debug\dopzadanie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tekwan\source\repos\dopzadanie\dopzadanie\obj\Debug\MainWindow.g.cs
+C:\Users\Tekwan\source\repos\dopzadanie\dopzadanie\obj\Debug\App.g.cs
+C:\Users\Tekwan\source\repos\dopzadanie\dopzadanie\obj\Debug\dopzadanie_MarkupCompile.cache
+C:\Users\Tekwan\source\repos\dopzadanie\dopzadanie\obj\Debug\dopzadanie_MarkupCompile.lref
+C:\Users\Tekwan\source\repos\dopzadanie\dopzadanie\bin\Debug\dopzadanie.exe.config
+C:\Users\Tekwan\source\repos\dopzadanie\dopzadanie\bin\Debug\dopzadanie.exe
+C:\Users\Tekwan\source\repos\dopzadanie\dopzadanie\bin\Debug\dopzadanie.pdb
+C:\Users\Tekwan\source\repos\dopzadanie\dopzadanie\obj\Debug\MainWindow.baml
+C:\Users\Tekwan\source\repos\dopzadanie\dopzadanie\obj\Debug\dopzadanie.g.resources
+C:\Users\Tekwan\source\repos\dopzadanie\dopzadanie\obj\Debug\dopzadanie.Properties.Resources.resources
+C:\Users\Tekwan\source\repos\dopzadanie\dopzadanie\obj\Debug\dopzadanie.csproj.GenerateResource.cache
+C:\Users\Tekwan\source\repos\dopzadanie\dopzadanie\obj\Debug\dopzadanie.csproj.CoreCompileInputs.cache
+C:\Users\Tekwan\source\repos\dopzadanie\dopzadanie\obj\Debug\dopzadanie.exe
+C:\Users\Tekwan\source\repos\dopzadanie\dopzadanie\obj\Debug\dopzadanie.pdb
