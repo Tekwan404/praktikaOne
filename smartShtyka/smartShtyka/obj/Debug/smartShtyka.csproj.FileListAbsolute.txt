@@ -1,0 +1,16 @@
+C:\Users\Tekwan\source\repos\smartShtyka\smartShtyka\bin\Debug\smartShtyka.exe.config
+C:\Users\Tekwan\source\repos\smartShtyka\smartShtyka\bin\Debug\smartShtyka.exe
+C:\Users\Tekwan\source\repos\smartShtyka\smartShtyka\bin\Debug\smartShtyka.pdb
+C:\Users\Tekwan\source\repos\smartShtyka\smartShtyka\obj\Debug\smartShtyka.csproj.AssemblyReference.cache
+C:\Users\Tekwan\source\repos\smartShtyka\smartShtyka\obj\Debug\smartShtyka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tekwan\source\repos\smartShtyka\smartShtyka\obj\Debug\MainWindow.g.cs
+C:\Users\Tekwan\source\repos\smartShtyka\smartShtyka\obj\Debug\App.g.cs
+C:\Users\Tekwan\source\repos\smartShtyka\smartShtyka\obj\Debug\smartShtyka_MarkupCompile.cache
+C:\Users\Tekwan\source\repos\smartShtyka\smartShtyka\obj\Debug\smartShtyka_MarkupCompile.lref
+C:\Users\Tekwan\source\repos\smartShtyka\smartShtyka\obj\Debug\MainWindow.baml
+C:\Users\Tekwan\source\repos\smartShtyka\smartShtyka\obj\Debug\smartShtyka.g.resources
+C:\Users\Tekwan\source\repos\smartShtyka\smartShtyka\obj\Debug\smartShtyka.Properties.Resources.resources
+C:\Users\Tekwan\source\repos\smartShtyka\smartShtyka\obj\Debug\smartShtyka.csproj.GenerateResource.cache
+C:\Users\Tekwan\source\repos\smartShtyka\smartShtyka\obj\Debug\smartShtyka.csproj.CoreCompileInputs.cache
+C:\Users\Tekwan\source\repos\smartShtyka\smartShtyka\obj\Debug\smartShtyka.exe
+C:\Users\Tekwan\source\repos\smartShtyka\smartShtyka\obj\Debug\smartShtyka.pdb
