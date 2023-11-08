@@ -1,0 +1,17 @@
+C:\Users\Tekwan\source\repos\ZVDOP\ZVDOP\bin\Debug\ZVDOP.exe.config
+C:\Users\Tekwan\source\repos\ZVDOP\ZVDOP\bin\Debug\ZVDOP.exe
+C:\Users\Tekwan\source\repos\ZVDOP\ZVDOP\bin\Debug\ZVDOP.pdb
+C:\Users\Tekwan\source\repos\ZVDOP\ZVDOP\obj\Debug\ZVDOP.csproj.AssemblyReference.cache
+C:\Users\Tekwan\source\repos\ZVDOP\ZVDOP\obj\Debug\ZVDOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tekwan\source\repos\ZVDOP\ZVDOP\obj\Debug\MainWindow.g.cs
+C:\Users\Tekwan\source\repos\ZVDOP\ZVDOP\obj\Debug\App.g.cs
+C:\Users\Tekwan\source\repos\ZVDOP\ZVDOP\obj\Debug\ZVDOP_MarkupCompile.cache
+C:\Users\Tekwan\source\repos\ZVDOP\ZVDOP\obj\Debug\ZVDOP_MarkupCompile.lref
+C:\Users\Tekwan\source\repos\ZVDOP\ZVDOP\obj\Debug\MainWindow.baml
+C:\Users\Tekwan\source\repos\ZVDOP\ZVDOP\obj\Debug\ZVDOP.g.resources
+C:\Users\Tekwan\source\repos\ZVDOP\ZVDOP\obj\Debug\ZVDOP.Properties.Resources.resources
+C:\Users\Tekwan\source\repos\ZVDOP\ZVDOP\obj\Debug\ZVDOP.csproj.GenerateResource.cache
+C:\Users\Tekwan\source\repos\ZVDOP\ZVDOP\obj\Debug\ZVDOP.csproj.CoreCompileInputs.cache
+C:\Users\Tekwan\source\repos\ZVDOP\ZVDOP\obj\Debug\ZVDOP.exe
+C:\Users\Tekwan\source\repos\ZVDOP\ZVDOP\obj\Debug\ZVDOP.pdb
+C:\Users\Tekwan\source\repos\ZVDOP\ZVDOP\obj\Debug\ZVDOP_Content.g.cs
