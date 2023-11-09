@@ -1,0 +1,51 @@
+﻿<Window x:Class="ZVDOP1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZVDOP1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="DarkOliveGreen">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Content="Cкорость" FontSize="25" Margin="0,10,237,85"></Label>
+        <TextBox Grid.Row="0" Grid.Column="0" Margin="163,10,10,85" Background="AliceBlue" Name="v1Box" TextAlignment="Center" TextWrapping="Wrap" Text="15"/>
+        <Label Content="Расстояние" FontSize="25" Margin="0,72,237,23"/>
+        <TextBox Grid.Column="0" Text="15" Margin="163,72,10,23" Background="AliceBlue" Name="s1Box" TextWrapping="Wrap" TextAlignment="Center" />
+
+
+        <Label Grid.Row="1" Content="Cкорость" FontSize="25" Margin="0,10,237,85"/>
+        <TextBox Grid.Row="1" Grid.Column="0" Margin="163,10,10,85" Background="AliceBlue" Name="v2Box" TextAlignment="Center" TextWrapping="Wrap" Text="15"/>
+        <Label Grid.Row="1" Content="Расстояние" FontSize="25" Margin="0,72,237,22"/>
+        <TextBox Grid.Row="1" Grid.Column="0"  Text="15" Margin="163,72,10,22" Background="AliceBlue" Name="s2Box" TextWrapping="Wrap" TextAlignment="Center"/>
+
+
+        <Label Grid.Row="2" Content="Cкорость" FontSize="25" Margin="0,10,237,85"/>
+        <TextBox Grid.Row="2" Grid.Column="0" Text="15" Margin="163,10,10,85" Background="AliceBlue" Name="v3Box" TextWrapping="Wrap" TextAlignment="Center"/>
+        <Label Grid.Row="2" Content="Расстояние" FontSize="25" Margin="0,73,237,23"/>
+        <TextBox Grid.Row="2" Grid.Column="0" Text="15" Margin="163,73,10,23" Background="AliceBlue" Name="s3Box" TextWrapping="Wrap" TextAlignment="Center"/>
+
+        <Button Grid.Column="1" Grid.Row="2" Margin="190,61,10,12" Content="Узнать результат" FontSize="20" Background="CadetBlue" Click="Button_Click"/>
+        <TextBlock Grid.Row="1" Text="" Grid.Column="1" Margin="212,46,32,47" Background="Wheat" Name="SumaVblock" TextAlignment="Center" TextWrapping="Wrap"/>
+
+
+
+        <TextBlock Grid.Column="1" Margin="0,35,250,61" Background="AliceBlue" x:Name="sumS1Box" TextWrapping="Wrap" TextAlignment="Center" Text=""></TextBlock>
+
+        <TextBlock Grid.Column="1" Text="15" Margin="0,46,250,49" Background="AliceBlue" x:Name="sumS2Box" TextWrapping="Wrap" TextAlignment="Center" Grid.Row="1" />
+
+        <TextBlock Grid.Column="1" Text="15" Margin="0,35,250,61" Background="AliceBlue" x:Name="sumS3Box" TextWrapping="Wrap" TextAlignment="Center" Grid.Row="2" />
+
+
+
+    </Grid>
+</Window>
