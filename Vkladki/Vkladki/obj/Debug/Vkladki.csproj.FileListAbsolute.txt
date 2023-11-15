@@ -1,0 +1,16 @@
+C:\Users\Tekwan\source\repos\Vkladki\Vkladki\bin\Debug\Vkladki.exe.config
+C:\Users\Tekwan\source\repos\Vkladki\Vkladki\bin\Debug\Vkladki.exe
+C:\Users\Tekwan\source\repos\Vkladki\Vkladki\bin\Debug\Vkladki.pdb
+C:\Users\Tekwan\source\repos\Vkladki\Vkladki\obj\Debug\Vkladki.csproj.AssemblyReference.cache
+C:\Users\Tekwan\source\repos\Vkladki\Vkladki\obj\Debug\Vkladki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tekwan\source\repos\Vkladki\Vkladki\obj\Debug\MainWindow.g.cs
+C:\Users\Tekwan\source\repos\Vkladki\Vkladki\obj\Debug\App.g.cs
+C:\Users\Tekwan\source\repos\Vkladki\Vkladki\obj\Debug\Vkladki_MarkupCompile.cache
+C:\Users\Tekwan\source\repos\Vkladki\Vkladki\obj\Debug\Vkladki_MarkupCompile.lref
+C:\Users\Tekwan\source\repos\Vkladki\Vkladki\obj\Debug\MainWindow.baml
+C:\Users\Tekwan\source\repos\Vkladki\Vkladki\obj\Debug\Vkladki.g.resources
+C:\Users\Tekwan\source\repos\Vkladki\Vkladki\obj\Debug\Vkladki.Properties.Resources.resources
+C:\Users\Tekwan\source\repos\Vkladki\Vkladki\obj\Debug\Vkladki.csproj.GenerateResource.cache
+C:\Users\Tekwan\source\repos\Vkladki\Vkladki\obj\Debug\Vkladki.csproj.CoreCompileInputs.cache
+C:\Users\Tekwan\source\repos\Vkladki\Vkladki\obj\Debug\Vkladki.exe
+C:\Users\Tekwan\source\repos\Vkladki\Vkladki\obj\Debug\Vkladki.pdb
